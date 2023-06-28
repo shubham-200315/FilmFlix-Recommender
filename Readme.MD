@@ -1,4 +1,4 @@
-# Cinemy
+# FilmFlix-Recommender
 
 #### Description
 
@@ -23,4 +23,11 @@ Currently this has these following features-
 * Tracking of users' watch history. **[Currently disabled because of Heroku's max connection limit on ClearDB free plan -_-]**
     
 ##### Snapshots:
+![1](https://github.com/shubham-200315/FilmFlix-Recommender/assets/105916104/595a43a8-f0d9-49d1-a6d0-75695c9153d6)
+
+![2](https://github.com/shubham-200315/FilmFlix-Recommender/assets/105916104/9203fd26-c0bd-4cdf-9e53-8991b0de6fbf)
+![3](https://github.com/shubham-200315/FilmFlix-Recommender/assets/105916104/d24e5b80-ec72-43d4-a80d-d75dd958356b)
+![4](https://github.com/shubham-200315/FilmFlix-Recommender/assets/105916104/a24d1675-41ea-47e2-b95c-8b281f78ae25)
+
+
 ![5](https://github.com/shubham-200315/FilmFlix-Recommender/assets/105916104/072fd534-ea7d-4925-b1a4-0e0a0ceec91c)
