@@ -23,3 +23,4 @@ Currently this has these following features-
 * Tracking of users' watch history. **[Currently disabled because of Heroku's max connection limit on ClearDB free plan -_-]**
     
 ##### Snapshots:
+![5](https://github.com/shubham-200315/FilmFlix-Recommender/assets/105916104/072fd534-ea7d-4925-b1a4-0e0a0ceec91c)
